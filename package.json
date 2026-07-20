@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://Himas04.github.io/DocGenAI",
+  "homepage": "https://Himas04.github.io/DocGenAi",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
